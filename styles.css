@@ -1,0 +1,87 @@
+
+
+
+*{
+    color: aliceblue !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    text-shadow: 1px 0 1px #000, 
+    0 1px 1px #000, 
+    -1px 0 1px #000, 
+    0 -1px 1px #000;
+    box-sizing: border-box;
+
+}
+.der1{
+    text-align: center;
+    padding: 1rem;
+    size: 2cm;
+    background-color: #383e42 !important;
+}
+
+.body-content{
+    
+    background-color: antiquewhite !important;
+    background-image: url("background.jpeg");
+    background-position: left;
+    background-size: contain;
+    background-repeat: repeat; 
+    background-attachment:scroll;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+
+}
+
+.text-wrap{
+    background-color: #383e4258;
+    padding: 5%;
+    text-align: center;
+}
+
+
+.indent{
+    text-indent: 30px;
+}
+
+
+
+
+footer{
+    position:static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: aliceblue;
+    font-size: 1rem;
+    background-color: #383e42;
+    text-align: left;
+
+}
+
+a:link{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+right-bottom{
+    left: 90;
+    bottom: 10;
+}
+
+.card-img-top{
+    
+    height: 12rem;
+    width: 80%;
+    
+}
+
+.card{
+    background-color: #383e4258 !important; 
+}
+
+.card-body{
+   text-align: center;
+}
